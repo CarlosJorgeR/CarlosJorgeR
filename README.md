@@ -22,7 +22,7 @@
 ### 📄 Articles
 
 - [How to create a library for Vue3?](https://cucoders.dev/publicaciones/carlosjorger/como-crear-una-librer-a-para-vue3/)
-- [How to enhance the drag and drop of your Vue 3 application.](https://dev.to/carlosjorger/enhance-the-drag-and-drop-of-your-vue-3-application-with-vue-fluid-dnd-5acg)
+- [How to enhance the drag and drop of your Vue 3 application.](https://medium.com/@rodriguezcuelloc/enhance-the-drag-and-drop-of-your-vue-3-application-46441cf1cea0)
 - [Vue Fluid DnD v0.7 Drag and drop across lists and more.](https://dev.to/carlosjorger/vue-fluid-dnd-v07-drag-and-drop-across-lists-and-more-543k)
 
 <h3 align="center">💪 Skills</h3>
